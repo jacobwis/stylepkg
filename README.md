@@ -2,6 +2,16 @@
 
 A set of base styles and SASS mixins commonly used in my projects.
 
+## Installation
+
+Install stylepkg using `npm install stylepkg` or `yarn install stylepkg`
+
+Then import into your sass file
+
+```scss
+@import "~stylepkg/stylepkg";
+```
+
 ## Mixins
 
 **Breakpoints**
